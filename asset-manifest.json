@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kolkokrzyz/static/css/main.cad1be6c.css",
-    "main.js": "/kolkokrzyz/static/js/main.de9a442c.js",
+    "main.js": "/kolkokrzyz/static/js/main.d0c6fc8e.js",
     "index.html": "/kolkokrzyz/index.html",
     "main.cad1be6c.css.map": "/kolkokrzyz/static/css/main.cad1be6c.css.map",
-    "main.de9a442c.js.map": "/kolkokrzyz/static/js/main.de9a442c.js.map"
+    "main.d0c6fc8e.js.map": "/kolkokrzyz/static/js/main.d0c6fc8e.js.map"
   },
   "entrypoints": [
     "static/css/main.cad1be6c.css",
-    "static/js/main.de9a442c.js"
+    "static/js/main.d0c6fc8e.js"
   ]
 }
