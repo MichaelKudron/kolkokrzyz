@@ -16,14 +16,17 @@ const [player,setPlayer] = useState(1);
 const [history,setHistory] = useState([]);
 const setPlayers = (oldPlayer) =>{
     if(oldPlayer === 1||oldPlayer===-1){
-        setPlayer(oldPlayer)
-        
-    }
+        if(oldPlayer===1){
+            setPlayer(-1);
+    }else{
+        setPlayer(1);}
+    }else{
     if(player===1){
         setPlayer(-1);
 }else{
     setPlayer(1);
 }
+    }
 }
 
 
